@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "vibepod-board": {
+      "type": "http",
+      "url": "http://localhost:3000/mcp",
+      "oauth": { "callbackPort": 8765 }
+    }
+  }
+}
